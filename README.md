@@ -1,10 +1,12 @@
 <h3>Latest</h3>
 
+👉 [Google 數位人才探索計畫 - Google CLoud 學程](https://growonairtw.withgoogle.com/events/digitaleducation)
+
 👉 [Salesforce Certified Tableau Data Analyst](https://www.salesforce.com/trailblazer/c9z333yilaxgdmyshb)
 
-👉 [IT Specialist - Databases](https://www.credly.com/users/chieh-kao.d20a0265/badges)
-
 <h3>Former</h3>
+
+👉 [IT Specialist - Databases](https://www.credly.com/users/chieh-kao.d20a0265/badges)
 
 👉 [PBI Advanced DAX for Data Analysis](https://www.udemy.com/certificate/UC-98ad2248-cffd-40c9-a23e-5177d4064bbf/)
 
